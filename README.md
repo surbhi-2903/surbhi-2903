@@ -22,10 +22,10 @@
 
 - 📫 How to reach me **bhandarisurbhi2903@gmail.com**
 
-- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/saurabhsinghbhandarissb](https://www.linkedin.com/in/saurabhsinghbhandarissb)
+- 📇 Connect with me on LinkedIn [Surbhi Bhandari](https://www.linkedin.com/in/surbhi-bhandari-11baa222a/)
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/saurabh_ssb" target="blank"><img align="center" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Twitter_.avif" alt="saurabh_ssb" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
 <a href="https://www.youtube.com/c/saurabh singh bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saurabh singh bhandari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabhsinghbhandarissb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsinghbhandarissb" height="30" width="40" /></a>
 </p>
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
