@@ -24,7 +24,7 @@
 
 - 📇 Connect with me on LinkedIn [Surbhi Bhandari](https://www.linkedin.com/in/surbhi-bhandari-11baa222a/)
 
-- ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
+- ⚡ Fun fact **Tech Enthusisast**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
